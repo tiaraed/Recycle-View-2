@@ -1,6 +1,7 @@
 # Recycle-View-2
 ##Screenshot Aplikasi
-![3](https://cloud.githubusercontent.com/assets/22131257/21009364/cc87c27a-bd78-11e6-8c3f-dfdd933b0205.JPG)
+![1](https://cloud.githubusercontent.com/assets/22131257/22195463/b6ba0cfc-e17a-11e6-9f67-eaf9c091f0e6.JPG)
+![2](https://cloud.githubusercontent.com/assets/22131257/22195469/bd101498-e17a-11e6-9168-21a4845408db.JPG)
 * Identitas :<br>
 Nama : Tiara Eka Deliya <br>
 Kelas : XI RPL 5<br>
